@@ -145,3 +145,4 @@ Dummy commit number 144
 Dummy commit number 145 
 Dummy commit number 146 
 Dummy commit number 147 
+Dummy commit number 1 
