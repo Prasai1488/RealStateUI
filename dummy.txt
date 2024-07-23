@@ -1,1 +1,2 @@
 Dummy commit number 1 
+Dummy commit number 2 
