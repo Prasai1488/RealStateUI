@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+dummy.txt
+dummy-commits.bat
+authors.txt
+et --hard uiChanges
